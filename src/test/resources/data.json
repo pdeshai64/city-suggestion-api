@@ -1,0 +1,77 @@
+[
+  {
+    "fips": "01001",
+    "state": "AL",
+    "name": "ABtauga"
+  },
+  {
+    "fips": "01003",
+    "state": "AL",
+    "name": "ABldwin"
+  },
+  {
+    "fips": "01005",
+    "state": "AL",
+    "name": "Barbour"
+  },
+  {
+    "fips": "01007",
+    "state": "AL",
+    "name": "ABibb"
+  },
+  {
+    "fips": "01009",
+    "state": "AB",
+    "name": "Barunt"
+  },
+  {
+    "fips": "01011",
+    "state": "AB",
+    "name": "Bullock"
+  },
+  {
+    "fips": "01013",
+    "state": "AB",
+    "name": "Butler"
+  },
+  {
+    "fips": "01015",
+    "state": "CL",
+    "name": "Barhoun"
+  },
+  {
+    "fips": "01017",
+    "state": "CL",
+    "name": "Chambers"
+  },
+  {
+    "fips": "01019",
+    "state": "DL",
+    "name": "Cherokee"
+  },
+  {
+    "fips": "01021",
+    "state": "DL",
+    "name": "Barlton"
+  },
+  {
+    "fips": "01023",
+    "state": "GL",
+    "name": "Choctaw"
+  },
+  {
+    "fips": "01025",
+    "state": "HL",
+    "name": "Clarke"
+  },
+  {
+    "fips": "01027",
+    "state": "JL",
+    "name": "Clay"
+  },
+  {
+    "fips": "01029",
+    "state": "PL",
+    "name": "Cleburne"
+  }
+]
