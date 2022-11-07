@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "3966a7e0-0b7d-471f-975d-6d95f9fb5831",
+		"name": "Suggestion",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Suggest",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/suggest?q=wa",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"suggest"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "wa"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
